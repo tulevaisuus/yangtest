@@ -3,3 +3,5 @@ first
 three
 
 end
+
+Git has a mutable index called stage.
