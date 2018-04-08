@@ -6,5 +6,9 @@ end
 
 Git has a mutable index called stage.
 
+<<<<<<< HEAD
 git is dev test1 master
+=======
+git is dev test1
+>>>>>>> test1
 
