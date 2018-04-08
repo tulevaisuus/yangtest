@@ -15,4 +15,8 @@ git is dev test1
 
 dev argin
 
+<<<<<<< HEAD
 修改bug
+=======
+工作进行了一半
+>>>>>>> dev
