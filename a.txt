@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 a.txt
 新提交的
+<<<<<<< HEAD
 =======
 new a
 >>>>>>> dev
+=======
+
+news text
+>>>>>>> 3826b4ddf639995a3fab449d4c9f98fbf6232d32
