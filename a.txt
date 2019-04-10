@@ -1,2 +1,4 @@
 a.txt
 新提交的
+
+news text
